@@ -1,7 +1,7 @@
 # AnimeRacing - 2D Object-Oriented Racing Game
 
 ## Overview
-AnimeRacing is a 2D racing game built using **Visual Basic** and **Windows Forms**. Players can bet on their favorite anime characters and watch them race to the finish line. The game incorporates a betting system, random racer movement, and various race settings, providing an engaging experience with a mix of luck and strategy.
+AnimeRacing is a 2D racing game built using **Visual Basic** and **Windows Forms** as an introduction to Java freelance high school project. Players can bet on their favorite anime characters and watch them race to the finish line. The game incorporates a betting system, random racer movement, and various race settings, providing an engaging experience with a mix of luck and strategy.
 
 ## Features
 - **Betting System:** Players start with 1000 credits and can bet on their predicted winner before each race.
